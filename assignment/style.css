@@ -5,3 +5,18 @@ header{
 .info {
   background-color: rgb(34, 214, 200)
 }
+
+.description{
+  background-color: rgb(34, 190, 235)
+}
+
+body{
+  font-family: arial;
+}
+
+.border{
+  width: 500px;
+  border: 5px solid gray;
+  padding: 1em;
+  margin: 0;
+}
