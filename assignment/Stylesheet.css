@@ -5,11 +5,13 @@ header{
 .info {
   background-color: rgb(34, 214, 200);
   text-align:center;
+  color: #000066;
 }
 
 .description{
   background-color: rgb(34, 190, 235);
   text-align:center;
+  color: #000066;
 }
 
 body{
